@@ -53,3 +53,7 @@ def Media_y_Varianza(m_observable, v_ket):
         return None
 
 def Valores_Probabilidad():
+
+
+def Dinamica():
+
